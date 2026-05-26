@@ -1,7 +1,7 @@
 # Household Survey ML Analysis
 
 **Math 4050 — Course Project**  
-Aarush Kapoor · April 2026
+Aarush Kapoor · March 2026
 
 ---
 
