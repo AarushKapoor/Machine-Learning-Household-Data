@@ -116,7 +116,7 @@ Every model substantially outperformed its null baseline, with logistic regressi
 ```
 ├── Math4050-CourseProject-Kapoor.Rmd   # Full analysis with code and write-up
 ├── Math4050-CourseProject-Kapoor.pdf   # Rendered report
-└── projectData.csv                     # Source dataset (not included in repo)
+└── projectData.csv                     # Source dataset
 ```
 
 ---
